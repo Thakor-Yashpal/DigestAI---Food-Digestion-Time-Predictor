@@ -28,7 +28,7 @@ An AI-powered application that predicts digestion times for foods using machine 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/digestai.git
+   git clone https://github.com/Thakor-Yashpal/digestai.git
    cd digestai
    ```
 
@@ -311,7 +311,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Current Version**: 1.0.0
 - **Status**: Production Ready
-- **Last Updated**: December 2024
+- **Last Updated**: 17 september 2025
 - **Maintenance**: Actively maintained
 
 ## 🏗️ Architecture Overview
