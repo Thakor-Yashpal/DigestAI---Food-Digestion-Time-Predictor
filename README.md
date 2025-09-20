@@ -28,7 +28,7 @@ An AI-powered application that predicts digestion times for foods using machine 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/digestai.git
+   git clone https://github.com/Thakor-Yashpal/digestai.git
    cd digestai
    ```
 
